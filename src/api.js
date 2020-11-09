@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3001'; // puerto que se usa al hacer npm run start como api local
+const BASE_URL = 'http://localhost:3001';
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 const randomNumber = (min = 0, max = 1) =>
@@ -24,8 +24,6 @@ async function callApi(endpoint, options = {}) {
 const api = {
   badges: {
     list() {
-      // simulando datos vacios
-      // return [];
       return callApi('/badges');
     },
     create(badge) {

@@ -28,7 +28,6 @@ class BadgesListItem extends React.Component {
 
 class BadgesList extends React.Component {
   render() {
-    // si tenemos datos vacios
     if (this.props.badges.length === 0) {
       return (
         <div>
