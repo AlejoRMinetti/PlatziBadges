@@ -42,7 +42,7 @@ class BadgesList extends React.Component {
     return (
       <div className="BadgesList">
         <ul className="list-unstyled">
-          {this.props.badges.reverse().map(badge => {
+          {this.props.badges.map(badge => {
             return (
               <li key={badge.id}>
                 <BadgesListItem badge={badge} />
