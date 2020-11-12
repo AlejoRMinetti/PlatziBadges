@@ -46,7 +46,7 @@
       "avatarUrl": "https://www.gravatar.com/avatar/00e35de53a06a655fe5b6ac8b96bdb84?d=identicon"
     },
     {
-      "firstName": "Ricardo",
+      "firstName": "Richard",
       "lastName": "Kaufman",
       "email": "richardbkaufman@gmail.com",
       "jobTitle": "Frontend Engineer",
@@ -68,14 +68,6 @@
       "jobTitle": "Super Dog",
       "twitter": "snoopysuperdog",
       "id": "Tab9I7W"
-    },
-    {
-      "firstName": "Alejo",
-      "lastName": "Minetti",
-      "email": "alejorm@gmail.com",
-      "jobTitle": "Ingeniero en algo",
-      "twitter": "AlejoMinetti",
-      "id": "YiNFP6d"
     }
   ]
 }
