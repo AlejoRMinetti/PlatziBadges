@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/platzi-react-badges/static/media/platziconf-logo.f246f5f1.svg"
   },
   {
-    "revision": "f3c1bf63448ebafd84b5",
+    "revision": "aa77d9d1dd70747f8fbe",
     "url": "/platzi-react-badges/static/css/main.76af6b72.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/platzi-react-badges/static/js/2.4ddc11fd.chunk.js"
   },
   {
-    "revision": "f3c1bf63448ebafd84b5",
-    "url": "/platzi-react-badges/static/js/main.f3c1bf63.chunk.js"
+    "revision": "aa77d9d1dd70747f8fbe",
+    "url": "/platzi-react-badges/static/js/main.aa77d9d1.chunk.js"
   },
   {
     "revision": "973f5842f0c37eacb2eb491c62fc0032",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/platzi-react-badges/static/css/2.ee637e98.chunk.css"
   },
   {
-    "revision": "10209ff80f0512f3bc02216d86868e4b",
+    "revision": "c4ffc52006c388b0b7bf204092220f11",
     "url": "/platzi-react-badges/index.html"
   }
 ];
